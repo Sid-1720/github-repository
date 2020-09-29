@@ -1,0 +1,12 @@
+label {
+    font-size: larger;
+    margin-left: 45%;
+}
+
+input {
+    font-family:'Courier New', Courier, monospace;
+    padding: 5px;
+    background-color: aliceblue;
+    margin-left: 25%;
+    width: 50%;
+}
